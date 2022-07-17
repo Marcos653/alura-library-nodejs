@@ -1,0 +1,21 @@
+{
+  "name": "alura-livraria-node",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "dev": "nodemon server.js"
+  },
+  "keywords": [],
+  "author": "Marcos Costa",
+  "license": "ISC",
+  "devDependencies": {
+    "nodemon": "^2.0.19",
+    "prettier": "2.7.1"
+  },
+  "dependencies": {
+    "express": "^4.18.1",
+    "mongoose": "^6.4.4"
+  }
+}
